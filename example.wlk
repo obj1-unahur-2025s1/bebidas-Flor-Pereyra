@@ -1,5 +1,6 @@
 object tito {
-  //4.max(3), me esta pidiendo el maximo entre el objeto (primer numero) y el otro numero () dentro.
+  //4.max(3), me esta pidiendo el maximo entre el objeto (primer numero) y el otro numero () dentro. me daria 4.
+  //4.min(3), me esta pidiendo el minimo entre el objeto y el otro numero, me datria 3.
   var cantidad = 0
   var bebida = null 
   //null es nada
