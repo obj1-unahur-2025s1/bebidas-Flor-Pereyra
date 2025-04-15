@@ -24,4 +24,11 @@ describe "test tito" {
   }
 
 
+  test "consume cianuro la velocidad es 0" {
+    tito.consumir(5, cianuro)
+    assert.equals(0,tito.velocidad())
+  }
+
+
+
 }
